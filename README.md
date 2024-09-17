@@ -13,14 +13,14 @@ Para cada número consultado, imprima dos números en una línea. El primero ser
 ## Ejemplo
 
 ### Input
-> 5
-> 2 4 5 7 9
-> 4
-> 2 5 6 10
-
+`5`
+`2 4 5 7 9`
+`4`
+` 2 5 6 10`
 ### Output
-> X 4
-> 4 7
-> 5 7
-> 9 X
+`X 4`
+`4 7`
+`5 7`
+`9 X`
+
 
